@@ -1,0 +1,51 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.container1{
+    height:783px;
+    background-image: url("./bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 50px;
+}
+.container2{
+    margin-left: 60px;
+}
+.container2>h1{
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.container2>img{
+    height: 60px;
+    width: 70px;
+    margin-bottom: 20px;
+}
+.container2>audio{
+    margin-left: 40px;
+}
+.audio1{
+    margin-bottom: 24px;
+}
+.audio2{
+    margin-bottom: 24px;
+}
+.audio3{
+    margin-bottom: 24px;
+}
+.audio4{
+    margin-bottom: 24px;
+}
+.audio5{
+    margin-bottom: 24px;
+}
+.audio6{
+    margin-bottom: 24px;
+}
+.audio7{
+    margin-bottom: 24px;
+}
+.audio8{
+    margin-bottom: 24px;
+}

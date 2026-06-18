@@ -1,0 +1,24 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.container1{
+    height:775px;
+    background-image: url("./bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 50px;
+}
+.container2{
+    margin-left: 60px;
+}
+.container2>h1{
+    font-size: 40px;
+    margin:20px;
+}
+.container2>img{
+    height: 170px;
+    width: 250px;
+    margin: 20px;
+}
