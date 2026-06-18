@@ -3,7 +3,7 @@
     padding:0px;
 }
 .container1{
-    height:100vh;
+    height:1783px;
     background-image: url("./bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
@@ -48,36 +48,4 @@
 }
 .audio8{
     margin-bottom: 24px;
-}
-/* Mobile Responsive */
-@media (max-width: 768px){
-
-    .container1{
-        min-height: 100vh;
-        padding: 20px 10px;
-    }
-
-    .container2{
-        margin-left: 0;
-        text-align: center;
-    }
-
-    .container2 h1{
-        font-size: 28px;
-        margin-bottom: 20px;
-    }
-
-    .container2 img{
-        display: block;
-        width: 120px;
-        height: 120px;
-        margin: 15px auto 10px;
-        border-radius: 10px;
-    }
-
-    .container2 audio{
-        display: block;
-        width: 95%;
-        margin: 0 auto 20px;
-    }
 }
